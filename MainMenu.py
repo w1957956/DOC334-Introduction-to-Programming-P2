@@ -1,0 +1,15 @@
+def Menu():
+    print('---------------------------------')
+    print('Welcome to main menu')
+    print('1. View student information')
+    print('2. View student attendance')
+    print('3. Search student information')
+    print('4. Search student attendance')
+    print('5. Enter new student information')
+    print('6. Enter new attendance')
+    print('7. Update student information')
+    print('8. Update student attendance')
+    print('9. Delete student information')
+    print('10. Delete student attendance')
+    print('----------------------------------')
+            
